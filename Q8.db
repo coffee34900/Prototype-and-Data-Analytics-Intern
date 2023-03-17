@@ -1,4 +1,4 @@
--- Creating a table for hat contains the median daily vaccination numbers for each country.--
+-- Creating a table that contains the median daily vaccination numbers for each country.--
 
 CREATE TABLE median_vaccinations AS
 SELECT 
